@@ -29,7 +29,7 @@ Project created by <a href="https://github.com/cyberchekuthan">iMASH BOT</a> to 
   ### Simple Method
 <h1 align="center"><b> මේ දම්පාට කොටුව ඔබන්න Dpeloy කිරීමට  👇 </b></h1>  
  
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Z-BOT-V-2/IMASHNIDUSHA) 
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Imash-BoT/Z-BOT) 
  
  <h1 align="center"><b> පලමුව මෙය ඔබා QR කේතය Scan කර ගන්න  👇 </b></h1> 
 
