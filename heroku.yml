@@ -1,5 +1,5 @@
 build:
   docker:
-      worker: /imashbase/Dockerfile
+      worker: /Dockerfilek/Dockerfile
 run:
    worker: npm start
